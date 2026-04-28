@@ -11,7 +11,7 @@
 
 ## 🚀 About Me
 
-Full Stack Developer with **8+ years** of experience building scalable web and mobile applications. Delivered **50+ production applications** across healthcare, e-commerce, and SaaS domains. Expert in JavaScript ecosystem (React, Node.js, Next.js), backend frameworks (Laravel, Django), and cloud technologies. Proven track record in team leadership, agile development, and driving technical excellence.
+Full Stack Developer with **10+ years** of experience building scalable web and mobile applications. Delivered **100+ production applications** across healthcare, e-commerce, and SaaS domains. Expert in JavaScript ecosystem (React, Node.js, Next.js), backend frameworks (Laravel, Django), and cloud technologies. Proven track record in team leadership, agile development, and driving technical excellence.
 
 🎯 **Currently:** Founder & CEO at **Ultraconic** | Leading analytical solution development
 
